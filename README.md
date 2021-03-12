@@ -1,1 +1,2 @@
-# Named_Entity_Recognition-API
+# ner-flask
+Create a flask application to serve named entity recognition with spacy 
